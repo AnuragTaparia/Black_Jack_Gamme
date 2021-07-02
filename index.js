@@ -9,7 +9,7 @@ let sumEl = document.getElementById("sum-el") // let sumEl = document.querySelec
 let cardsEl = document.getElementById("cards-el")
 let permission = true
 let player = {
-    name: "Anurag",
+    name: "player",
     chip: 20
 }
 let playerEl = document.getElementById("player-el")
